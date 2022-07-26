@@ -1,0 +1,5 @@
+name: PixelsAPI
+version: ${project.version}
+main: de.bypixels.pixelsapi.util.Main
+authors: [ PixelsDE, byPixels ]
+description: The PixelsAPI
